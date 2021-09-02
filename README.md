@@ -13,7 +13,8 @@
 ```javascript
 const gabriel = {
   code: [Javascript, Python, HTML, CSS],
-  tools: [React.js, Flask],
+  tools: [React.js, Flask, SQLalchemy, Bootstrap],
+  db: "MySQL",
   sentence: "Hay quienes aciertan a la primera. Yo lo hago después de intentarlo mil veces"
 }
 ```

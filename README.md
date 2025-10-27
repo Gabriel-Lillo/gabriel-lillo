@@ -4,15 +4,6 @@
 <p><em> Desarrollador full-stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
-<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
-
-
-<p align="center">
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gabriel-lillo-vega/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-      </div>
-</p>
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi...  
@@ -39,6 +30,13 @@ const gabriel = {
   sentence: "Hay quienes aciertan a la primera. Yo lo hago después de intentarlo mil veces"
 }
 ```
-
-
 ---
+<h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Contactame 🤝 </h3>
+
+
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/gabriel-lillo-vega/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+      </div>
+</p>
